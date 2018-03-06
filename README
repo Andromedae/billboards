@@ -1,0 +1,11 @@
+Description :
+This is a solution to the following assignment : https://gist.github.com/matts2cant/3a80edcbe828ab6843fb
+
+Usage :
+  -input string
+        input file (default "test_1.txt")
+  -output string
+        result file (default "result.txt")
+
+Test :
+Test files can be found in the test_files  directory      
